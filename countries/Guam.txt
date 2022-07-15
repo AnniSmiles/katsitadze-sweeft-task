@@ -1,0 +1,8 @@
+{
+  "Name": "Guam",
+  "Region": "Oceania",
+  "Latlng": "[\r\n  13.46666666,\r\n  144.78333333\r\n]",
+  "Area": "549",
+  "SubRegion": "Micronesia",
+  "Population": "168783"
+}
