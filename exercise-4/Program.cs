@@ -1,5 +1,5 @@
 ﻿//exercise 4
-bool longestValidParentheses(String s)
+bool IsProperly(String s)
 {
     int answer = 0;
     Stack<int> stack = new Stack<int>();
@@ -28,4 +28,4 @@ bool longestValidParentheses(String s)
         return false;
     }
 }
-Console.WriteLine(longestValidParentheses("(()())"));
+Console.WriteLine(IsProperly("(()())"));
